@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marco Vieira"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Marco Vieira"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marco Vieira"
   avatar           : "profile.png"
-  bio              : "Full Professor at University of Coimbra"
+  bio              : "Full Professor at University of Coimbra, Portugal"
   location         : "Coimbra, Portugal"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
